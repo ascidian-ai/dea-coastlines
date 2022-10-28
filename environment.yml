@@ -99,6 +99,7 @@ dependencies:
     - psycopg2
     - ptyprocess
     - pycparser
+    - fbriol::pyfes
     - pygeos
     - pygments
     - pyparsing
